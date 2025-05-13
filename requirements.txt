@@ -2,5 +2,7 @@ streamlit
 PyMuPDF
 fuzzywuzzy
 python-Levenshtein
-openai
+openai>=1.0.0
+
+
 
